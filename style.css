@@ -2,20 +2,23 @@ a:link{
     color: #e11c1c;
 }
 
-a:link:visited{
+a:visited{
     color: #e11c1c;
 }
 
-a:link:hover{
+a:hover{ 
     color: white;
 }
+
+
+
 
 body{
     background-color: #111111;
 }
 
 #header_logo{
-    height: 300px;
+    height: 250px;
     display: block;
     position: relative;
     margin: 0 auto;
@@ -40,12 +43,55 @@ body{
     top: 30px;
 }
 
+
+
+
+#list_div{
+    padding-top: 20px;
+    height: 200px;
+    width: 400px;
+    font-family: ubuntu;
+    color: white;
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    
+    
+}
+
+
+
+
+
+#description_box{
+    
+    height: 140px;
+    width: 240px;
+    position: relative;
+    float: right;
+    left: -20px;
+    
+}
+
+#forkme_div{
+    height: 100px;
+    width: 200px;
+    
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+
+
 #fork_me{
+    
     height: 70px;
     display: block;
     position: relative;
     margin: 0 auto;
-    top: 60px;
     user-drag: none; 
     user-select: none;
     -moz-user-select: none;
@@ -53,4 +99,41 @@ body{
     -webkit-user-select: none;
     -ms-user-select: none;
 }
+
+
+
+#buy_text{
+    float: left;
+    position: relative;
+
+}
+
+
+#honorable{
+    color: #C0C0C0;
+    font-family: ubuntu;
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    width: 400px;
+    font-size: 25px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

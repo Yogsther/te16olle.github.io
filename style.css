@@ -1,0 +1,56 @@
+a:link{
+    color: #e11c1c;
+}
+
+a:link:visited{
+    color: #e11c1c;
+}
+
+a:link:hover{
+    color: white;
+}
+
+body{
+    background-color: #111111;
+}
+
+#header_logo{
+    height: 300px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    user-drag: none; 
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+#blog{
+    height: 300px;
+    width: 400px;
+    font-size: 20px;
+    font-family: ubuntu;
+    color: white;
+    
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    top: 30px;
+}
+
+#fork_me{
+    height: 70px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    top: 60px;
+    user-drag: none; 
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+

@@ -57,6 +57,8 @@ body{
     display: block;
     
     
+    
+    
 }
 
 
@@ -120,7 +122,17 @@ body{
     
 }
 
-
+#list_title{
+    color: white;
+    font-family: ubuntu;
+    width: 402px;
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    top: 10px;
+    font-size: 20px;
+    
+}
 
 
 
